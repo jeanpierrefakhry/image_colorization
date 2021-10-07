@@ -2,4 +2,4 @@ numpy
 tensorflow-cpu
 scikit-image
 Pillow
-streamlit
+streamlit==0.79.0
