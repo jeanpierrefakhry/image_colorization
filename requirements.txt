@@ -2,4 +2,5 @@ numpy
 tensorflow-cpu
 scikit-image
 Pillow
+opencv
 streamlit==0.79.0
